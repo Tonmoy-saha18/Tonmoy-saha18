@@ -22,8 +22,8 @@ I am an Associate Software Engineer currently working at [Brain Station 23 PLC](
 
 #### Projects
 
-- **[Mobile Refueling]:** I am currently working on two projects, and mobile refueling is one of them. It is an innovative solution designed to streamline the fueling process for users by eliminating the need for direct interaction with station attendants. Leveraging cutting-edge technology, this application enables users to conveniently refuel their vehicles directly from fuel stations using their mobile devices.
-- **[Fleet Management]:** This is my other projects. It is a comprehensive software solution tailored for companies with large fleets of vehicles, designed to optimize fleet operations, enhance efficiency, and reduce operational costs. This intuitive platform offers a suite of tools and functionalities to streamline various aspects of fleet management, from vehicle tracking and maintenance scheduling to driver performance monitoring and fuel consumption analysis.
+- **Mobile Refueling:** I am currently working on two projects, and mobile refueling is one of them. It is an innovative solution designed to streamline the fueling process for users by eliminating the need for direct interaction with station attendants. Leveraging cutting-edge technology, this application enables users to conveniently refuel their vehicles directly from fuel stations using their mobile devices.
+- **Fleet Management:** This is my other projects. It is a comprehensive software solution tailored for companies with large fleets of vehicles, designed to optimize fleet operations, enhance efficiency, and reduce operational costs. This intuitive platform offers a suite of tools and functionalities to streamline various aspects of fleet management, from vehicle tracking and maintenance scheduling to driver performance monitoring and fuel consumption analysis.
 
 #### Contact Me
 
