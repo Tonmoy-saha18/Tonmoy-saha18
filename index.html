@@ -4,16 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tonmoy Saha</title>
+    <link rel="shortcut icon" href="tonmoy.jpg" type="image/jpg"/>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
     <section id="personInfo" class="personlInfo">
         <div class="container infocontainer">
-            <div class="conatiner1">
+            <div class="container1">
                 <img src="tonmoy.jpg">
             </div>
-            <div class="conatiner2">
+            <div class="container2">
                 <h3>Hi there 👋, I'm Tonmoy Saha</h3>
                 <p>Associate Software Engineer <br> <a href="https://brainstation-23.com" class="comapnyLink" target="_blank">Brain Station 23 PLC</a></p>
                 <p>Completed BSC in Computer Science <br> <a href="https://uiu.ac.bd" class="comapnyLink" target="_blank">United International University</a><br><i><small style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Cgpa: 3.93</small></i></p>
@@ -22,7 +23,10 @@
     </section>
     <header>
         <div class="container">
-            <nav>
+            <button id="menu-toggle" aria-label="Toggle menu">
+                <i class="fa fa-bars"></i>
+            </button>
+            <nav id="navbar">
                 <ul>
                     <li><a href="#about" class="navbarLink">About</a></li>
                     <li><a href="#experience" class="navbarLink">Experiences</a></li>
@@ -222,4 +226,14 @@
         </div>
     </footer>
 </body>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var menuToggle = document.getElementById('menu-toggle');
+        var navbar = document.getElementById('navbar');
+    
+        menuToggle.addEventListener('click', function() {
+            navbar.querySelector('ul').classList.toggle('active');
+        });
+    });
+</script>    
 </html>
