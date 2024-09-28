@@ -2,12 +2,12 @@
 
 #### About Me
 
-I am an Associate Software Engineer currently working at [Brain Station 23 PLC](https://brainstation-23.com/) with a passion for building robust backend systems using Java Spring Boot. I have a keen interest in Natural Language Processing (NLP) and Computer Vision, exploring the intersection of AI and software development.
+I am a Software Engineer currently working at [Brain Station 23 PLC](https://brainstation-23.com/) with a passion for building robust backend systems using Java Spring Boot. I have a keen interest in Natural Language Processing (NLP) and Computer Vision, exploring the intersection of AI and software development.
 
 #### Experience
 
 - **Company:** [Brain Station 23 PLC](https://brainstation-23.com)
-- **Position:** Associate Software Engineer
+- **Position:** Software Engineer
 - **Duration:** March 2023 - Present
 - **Responsibilities:**
   - Building and maintaining backend components of our applications using Java Spring Boot.
